@@ -1,8 +1,6 @@
 # SkillShift
 GoogleHack4Change
 
-# SkillShift
-
 SkillShift is a platform designed to bridge the gap between the skills youth possess and the demands of the ever-evolving job market. Our goal is to provide personalized learning pathways, comprehensive career recommendations, and dynamic skill assessments to help individuals thrive in their careers.
 
 ## Features
